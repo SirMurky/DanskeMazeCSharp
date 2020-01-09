@@ -1,0 +1,7 @@
+C:\Users\rvjaz\source\repos\MazeCSharp\MazeCSharp\bin\Debug\MazeCSharp.exe.config
+C:\Users\rvjaz\source\repos\MazeCSharp\MazeCSharp\bin\Debug\MazeCSharp.exe
+C:\Users\rvjaz\source\repos\MazeCSharp\MazeCSharp\bin\Debug\MazeCSharp.pdb
+C:\Users\rvjaz\source\repos\MazeCSharp\MazeCSharp\obj\Debug\MazeCSharp.csprojAssemblyReference.cache
+C:\Users\rvjaz\source\repos\MazeCSharp\MazeCSharp\obj\Debug\MazeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rvjaz\source\repos\MazeCSharp\MazeCSharp\obj\Debug\MazeCSharp.exe
+C:\Users\rvjaz\source\repos\MazeCSharp\MazeCSharp\obj\Debug\MazeCSharp.pdb
